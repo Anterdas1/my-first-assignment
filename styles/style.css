@@ -1,6 +1,24 @@
+
+
+.work-sans-normal {
+  font-family: "Work Sans", serif;
+  font-optical-sizing: auto;
+  
+  font-style: normal;
+}
+
 /* first-section */
 .first-section{
     background-color: #C6E4D6;
+    display: flex;
+    justify-content: space-between;
+    padding: 80px  100px;
+    border-radius: 24px;
+}
+
+.heading{
+    font-weight: 600;
+    font-size: 56px;
 }
 .text{
     color: #0E0E0E;
@@ -12,4 +30,80 @@
     color: white;
     padding: 18px 12px ;
     border: none;
+}
+
+.first-img{
+    height: 400px;
+    width: 400px;
+}
+
+/* The Vision of Future */
+.vesion{
+    display: flex;
+    justify-content: space-between;
+    gap: 24px;
+}
+
+.Transformation{
+    background-color: #D5D6D8;
+    border-radius: 16px;
+}
+
+.but-1{
+    background-color: #5490F5;
+    border-radius: 8px;
+    color: white;
+    padding: 18px 12px ;
+    border: none;
+}
+
+.Green-Energy{
+    background-color: #C6E4D6;
+    border-radius: 16px;
+}
+
+.dut-2{
+    background-color: #09A15C;
+    border-radius: 8px;
+    color: white;
+    padding: 18px 12px ;
+    border: none;
+}
+
+.Infrastructure{
+    background-color: #FFD55D;
+    border-radius: 16px;
+    
+}
+
+.but-3{
+    background-color: #FFC239;
+    border-radius: 8px;
+    color: white;
+    padding: 18px 12px ;
+    border: none;
+}
+
+#div-model{
+    padding: 32px 32px 32px 32px;
+}
+
+.foot{
+    background-color: #FFFFFF;
+    padding: 25px 20px 25px 20px;
+}
+
+.pra{
+    /* position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: -5; */
+   
+}
+
+/* main */
+
+.bangladesh{
+    display: flex;
+    justify-content: space-between;
 }
