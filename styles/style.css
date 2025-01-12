@@ -122,3 +122,57 @@
     padding: 13px 26px 13px 26px;
    border-radius: 8px;
 }
+.span-div{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.text-span{
+    
+    font-size: 16px;
+}
+
+.bangladesh-2{
+    background-color: #FFFFFF;
+    display: flex;
+    justify-content: space-between;
+    gap: 32px;
+    border-radius: 24px;
+    padding: 48px 48px 48px 48px;
+}
+
+/* footer */
+
+.mother-hp{
+    text-align: center;
+}
+
+.mother-div{
+    display: flex;
+    justify-content: space-between;
+    gap: 24px;
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
+.div-text{
+    background-color: #FFFFFF;
+    border: 2px solid #0E0E0E;
+    border-radius: 16px;
+    padding: 40px 40px 40px 40px;
+    font-weight: bold;
+    font-size: 40px;
+
+}
+
+#chang-color{
+    background-color: #C6E4D6;
+}
+
+.but-type{
+    display: flex;
+    justify-content: center;
+}
+.done{
+    display: block;
+}
