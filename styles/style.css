@@ -170,9 +170,27 @@
 }
 
 .but-type{
-    display: flex;
+    display: block;
     justify-content: center;
 }
-.done{
-    display: block;
+
+.Subscribe{
+    background-color: #C6E4D6;
+    border-radius: 24px;
+    text-align: center;
+    
+    padding: 80px 100px 80px 100px;
 }
+
+.witdh{
+    width: 600px;
+    height: 55px;
+    padding-left: 0px;
+
+}
+
+.bold{
+    font-weight: bold;
+    font-size: 40px;
+}
+
